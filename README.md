@@ -1,4 +1,4 @@
-## Hi, I'm Jennifer Nguyen, a new Computer Science/Mathematics graduate from Colgate University 👋
+## Hi, I'm Jennifer Nguyen, a new CompSci/Math grad from Colgate University 👋
 
 ## 🌟 About Me
 - 💡 **Dabbling in Data and Development**: I started with a love for coding but ended up loving building tools and systems to extract actionable insights from data.
