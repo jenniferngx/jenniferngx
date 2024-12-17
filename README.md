@@ -1,16 +1,14 @@
-## Hi, I'm Jennifer Nguyen 👋
----
-**A new Computer Science/Mathematics graduate from Colgate University**
-
-I'm interested in both **data science** and **software developement**, with a foundation in **coding**, **machine learning**, and **building scalable solutions**, I love solving problems and making an impact. 
----
+## Hi, I'm Jennifer Nguyen, a new Computer Science/Mathematics graduate from Colgate University 👋
 
 ## 🚀 About Me
 - 💡 **Dabbling in Data and Development**
+  
   I started with a love for coding but ended up loving building tools and systems to extract actionable insights from data.
 - 🌱 **Building and Optimizing**
+  
   I've been working on **building applications** and **using data for smarter decision-making**. 
 - 🎯 **Exploring new tools and technologies**
+  
   I get a bit restless when I'm not learning/doing something new. Currently expanding my skills in **data analysis**, **ML modeling**, and **cloud computing**.
 
 ## 🛠️ Skills and Tools
