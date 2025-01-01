@@ -1,9 +1,8 @@
 ## Hi, I'm Jennifer Nguyen, a new CompSci/Math grad from Colgate University 👋
 
 ## 🌟 About Me
-- 💡 **Dabbling in Data and Development**: I started with a love for coding but ended up loving building tools and systems to extract actionable insights from data.
-- 🌱 **Building and Optimizing**: I've been working on **building applications** and **using data for smarter decision-making**. 
-- 🎯 **Exploring new tools and technologies**: I get restless when I'm not learning/doing something new. Currently expanding my skills in **data analysis**, **ML modeling**, and **cloud computing**.
+- 💡 **Data and Software Dev**: I started out with programming but ended up loving building tools and systems to extract insights from data. 
+- 🎯 **Exploring new tools**: I get restless when I'm not learning/doing something new. Currently expanding my skills in **data analysis**, **ML modeling**, and **cloud computing**.
 
 ## 🛠️ Skills and Tools
 - **Programming Languages**: Python, R, SQL, Java, C, JavaScript, HTML, CSS, Kotlin
@@ -13,13 +12,13 @@
 ## 🚀 What I'm working on
 - 🚧 **E2E ML Pipelines**:
 
-  I'm learning to build and optimize machine learning pipelines. I'm specifically focused on tools like Airflow for orchestration and Flask for API deployment.
+  I'm learning to build and optimize machine learning pipelines. Right now I'm interested in tools like Airflow for orchestration and Flask for API deployment.
 - 🔍 **Exploring Computer Vision Systems**:
 
   I'm exploring into computer vision and deep learning using frameworks like TensorFlow. This interest stems from my experience improving text and object recognition accuracy in real-world scenarios
 - 🧠 **Enhancing My Skills in Natural Language Processing (NLP)**:
 
-  I've been exporing NLP for text classification, sentiment analysis, and entity recognition.  I built a project analyzing tweets to find socio-demographic trends. It wasn't a groundbreaking success (yet), but I've been brushing up on tools and can't wait to revisit this project with fresh ideas and new skills.
+  I've been exporing NLP for text classification, sentiment analysis, and entity recognition. I built a social media analysis project to find socio-demographic trends. It wasn't a groundbreaking success (yet), but I've been brushing up on tools and can't wait to revisit this project with fresh ideas and new skills.
 
 ## 📫 Up close:
 - 💬 **How to reach me**: trang.nguyen.do.ha@gmail.com
