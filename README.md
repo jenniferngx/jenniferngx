@@ -10,13 +10,13 @@
 - **Tools & Cloud Platforms**: AWS, Google Cloud, BigQuery, Tableau, PowerBI, Looker
 
 ## 🚀 What I'm working on
-- 🚧 **E2E ML Pipelines**:
+- **E2E ML Pipelines**:
 
   I'm learning to build and optimize machine learning pipelines. Right now I'm interested in tools like Airflow for orchestration and Flask for API deployment.
-- 🔍 **Exploring Computer Vision Systems**:
+- **Exploring Computer Vision Systems**:
 
   I'm exploring into computer vision and deep learning using frameworks like TensorFlow. This interest stems from my experience improving text and object recognition accuracy in real-world scenarios
-- 🧠 **Enhancing My Skills in Natural Language Processing (NLP)**:
+- **Enhancing Skills in NLP**:
 
   I've been exporing NLP for text classification, sentiment analysis, and entity recognition. I built a social media analysis project to find socio-demographic trends. It wasn't a groundbreaking success (yet), but I've been brushing up on tools and can't wait to revisit this project with fresh ideas and new skills.
 
